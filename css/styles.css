@@ -23,3 +23,10 @@ h2, h3 {
     background-color: #ffebcd; /* Color de fondo al pasar el mouse sobre las canciones */
 }
 
+.text-white {
+    transition: color 0.3s ease; /* Transición para cambiar de color */
+}
+
+.text-white:hover {
+    color: #ff4b1f; /* Cambia el color de los enlaces al pasar el mouse */
+}
