@@ -6,3 +6,9 @@ header {
     background: linear-gradient(135deg, #ff4b1f 0%, #ff9068 100%); /* Gradiente de fondo */
 }
 
+
+.navbar {
+    border-bottom: 2px solid #ff4b1f; /* Línea de borde en la navbar */
+}
+
+
