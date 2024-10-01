@@ -1,0 +1,8 @@
+body {
+    background-color: #f8f9fa; /* Color de fondo claro */
+}
+
+header {
+    background: linear-gradient(135deg, #ff4b1f 0%, #ff9068 100%); /* Gradiente de fondo */
+}
+
