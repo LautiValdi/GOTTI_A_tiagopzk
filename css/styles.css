@@ -14,4 +14,13 @@ h2, h3 {
     border-bottom: 2px solid #ff4b1f; /* Línea de borde en la navbar */
 }
 
+.list-group-item {
+    background-color: #ffffff; /* Color de fondo blanco para las canciones */
+    border: none; /* Sin bordes */
+}
+
+.list-group-item:hover {
+    background-color: #ffebcd; /* Color de fondo al pasar el mouse sobre las canciones */
+}
+
 
